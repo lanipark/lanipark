@@ -1,5 +1,5 @@
 ## Objective
-Highly skilled and experienced developer with over 10 years of expertise in various business domains and technologies. 
+Highly skilled and experienced developer with over 13 years of expertise in various business domains and technologies. 
 
 ### Skills
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -23,4 +23,12 @@ Highly skilled and experienced developer with over 10 years of expertise in vari
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Education
+
+#### Computer Science and Technologies degree
+KYUNG HEE CYBER UNIVERSITY / 2010 ~ 2012
+
+#### Mathematics degree
+POSTECH / 2001 ~ 2009 (*academic separation*)
 
